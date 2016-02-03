@@ -1,0 +1,19 @@
+{
+  "name": "first-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spacebear5000/first-react-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spacebear5000/first-react-page/issues"
+  },
+  "homepage": "https://github.com/spacebear5000/first-react-page#readme"
+}
