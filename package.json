@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/spacebear5000/first-react-page/issues"
   },
-  "homepage": "https://github.com/spacebear5000/first-react-page#readme"
+  "homepage": "https://github.com/spacebear5000/first-react-page#readme",
+  "devDependencies": {
+    "babel-core": "^6.3.13",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13"
+  }
 }
